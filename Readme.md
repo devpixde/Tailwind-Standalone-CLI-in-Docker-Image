@@ -11,6 +11,9 @@ This project serves as a template for simple experiments and learnings with tail
 
 * If you prefer hot reloading and a real web-server have a look at the tailwind with node Docker image.
 
+## Prerequisite
+
+* Have Docker installed. See: https://www.docker.com
 
 ## Setup
 
