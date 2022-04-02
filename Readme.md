@@ -49,4 +49,11 @@ within interactive docker container:
 tailwindcss  -i ./src/main.css -o ./dist/main.css --watch
 ```
 
-You this can be done by Docker Desktop UI alternatively
+* Alternativly you can do the same by using Docker Desktop UI 
+
+
+## When container is running
+
+* Edit html and css, apply tailwind classes
+* Tailwind automatically compiles your code after each change and creates a new ./dist/main.css that can be displayed by the browser.
+* Open index.html in your browser, reload browser after each code change.
